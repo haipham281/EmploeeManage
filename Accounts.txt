@@ -1,0 +1,5 @@
+tài khoản CEO: tk:phamhai mk: 518H0090
+
+tài khoản manager: tk:datnguyen mk:123
+
+tài khoản nhân viên: tk:hoanghuy mk:123

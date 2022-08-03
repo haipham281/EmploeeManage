@@ -1,0 +1,19 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -10px;
+    
+}
+.product .title{
+   color: black;
+   font-weight: 500;
+    background: rgb(255, 255, 255);
+    padding: 1rem;
+    font-size: 140%;
+}
+.content{
+  margin-top: -5px;
+  margin-bottom: -10px;
+}
+
